@@ -101,6 +101,7 @@ public class Home extends BaseActivity {
         MySharedPreference.init(this);
 
 
+
         layoutManager = new GridLayoutManager(this,3);
         layoutManager2 = new GridLayoutManager(this,2);
 
