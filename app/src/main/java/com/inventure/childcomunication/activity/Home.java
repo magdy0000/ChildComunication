@@ -106,7 +106,6 @@ public class Home extends BaseActivity {
         layoutManager2 = new GridLayoutManager(this,2);
 
 
-
         playerRepeat = new MediaPlayer();
        player =new MediaPlayer();
 

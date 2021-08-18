@@ -24,9 +24,6 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
 import com.inventure.childcomunication.helpers.MyDataControl;
 import com.inventure.childcomunication.helpers.MySharedPreference;
 import com.inventure.childcomunication.helpers.MyUtils;

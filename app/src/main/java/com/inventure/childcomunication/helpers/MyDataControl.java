@@ -12,11 +12,7 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
+
 import com.inventure.childcomunication.activity.Setting;
 
 import java.io.File;
@@ -128,8 +124,6 @@ public class MyDataControl {
         File wallpaperDirectory = new File(Environment.getExternalStorageDirectory().getAbsolutePath()+"/Child Communication/Data/");
 
         wallpaperDirectory.mkdirs();
-
-
 
 
     }

@@ -84,7 +84,6 @@ public class AdapterRecyclerCategory extends RecyclerView.Adapter<AdapterRecycle
             holder.linearLayout.setBackgroundResource(color);
             holder.textView.setTextColor(Color.parseColor("#000000"));
 
-
         }
         else
         {
